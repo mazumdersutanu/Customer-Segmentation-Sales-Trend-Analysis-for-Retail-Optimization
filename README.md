@@ -1,1 +1,1 @@
-# Customer-Segmentation-Sales-Trend-Analysis-for-Retail-Optimization
+# 🛒 Customer Segmentation & 📈 Sales-Trend Analysis for Retail-Optimization
