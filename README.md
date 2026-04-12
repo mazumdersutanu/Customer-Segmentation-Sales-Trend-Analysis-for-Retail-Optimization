@@ -29,4 +29,4 @@ Revenue-driving factors,
 Marketing strategy enhancements,
 Loyalty improvement ideas.
 
-![imagealt](https://github.com/mazumdersutanu/Customer-Segmentation-Sales-Trend-Analysis-for-Retail-Optimization/blob/4c45d7e7b16cda72eb48f6d7a9b8faa2e0b44494/Customer%20segmentation%20and%20retail%20worflow.png)
+![imagealt](https://github.com/mazumdersutanu/Customer-Segmentation-Sales-Trend-Analysis-for-Retail-Optimization/blob/8069e0a57b4844101308030a77f8f564c5beb4c8/Customer%20segmentation%20and%20sales%20trend%20analysis.png)
